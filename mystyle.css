@@ -1,3 +1,16 @@
-p {
-  color: black;
+body {
+  color: white;
+  background-image:url(https://www.get-licensed.co.uk/get-daily/wp-content/uploads/2019/08/apps.55787.9007199266246365.687a10a8-4c4a-4a47-8ec5-a95f70d8852d.jpg);
+  text-align: center;
 }/*# sourceMappingURL=mystyle.css.map */
+
+button{
+  background:red;
+  color:white;
+  border:1px;
+}
+
+.button{
+  background-color: red;
+  color:white
+}
